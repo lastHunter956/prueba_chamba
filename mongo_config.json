@@ -1,0 +1,16 @@
+{
+    "username": "developer",
+    "password": "E7jP5NwVC!fbs",
+    "host": "10.1.1.80",
+    "port": 27017,
+    "database": "core-data-lamitech",
+    "collections": {
+        "collection1": "variables_procesos",
+        "collection2": "oee",
+        "collection3":"plc_variables",
+	"collection4": "collection_P",
+        "collection5": "collection_F",
+        "collection6": "collection_D",
+        "collection8": "collection_R"
+    }
+}
